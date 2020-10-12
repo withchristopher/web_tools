@@ -17,3 +17,6 @@ Change the table numbers which correspond to the wikipedia page.
 
 ## wiki_scrape
 This tool allows you to enter a URL in a popup window (python popup) and extracts the table from that page.
+
+## Author 
+CS Maxwell - https://github.com/withchristopher
